@@ -1,15 +1,3 @@
-### Hi there 👋
-
-<!--
-**matbowrs/matbowrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hey there, I'm Matthew
 
 ## I'm a Student, Developer and Polyglot (not just in programming)!
