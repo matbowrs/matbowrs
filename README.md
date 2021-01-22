@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Polyglot (not just in programming)!
 - 🔭 I’m currently working on my final CS project for university
-- 🌱 I’m currently learning React, GraphQL and more about RESTful APIs
+- 🌱 I’m currently learning React, Go and more about RESTful APIs
 - ⚡ Fun fact: I speak English, French and Russian and I love rock climbing
 
 <!-- ### Spotify Playing 🎧
