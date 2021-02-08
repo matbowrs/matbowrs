@@ -1,7 +1,7 @@
 ### Hey there, I'm Matthew
 
 ## I'm a Student, Developer and Polyglot (not just in programming)!
-- 🔭 I’m currently working on: Risk Assessment Tool for MagMutual Insurance
+- 🔭 I’m currently working on: Risk Assessment Tool for MagMutual Insurance (written in React and Golang)
 - 🌱 I’m currently learning React, Go and more about RESTful APIs
 - ⚡ Fun fact: I speak English, French and Russian and I love rock climbing
 
