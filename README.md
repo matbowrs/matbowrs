@@ -1,9 +1,7 @@
-### Hey there, I'm Matthew
-
-## I'm a Student, Developer and Polyglot (not just in programming)!
+## Hey, I'm Matthew
 - 🔭 I'm currently working as an Infrastructure Developer at ADP.
 - 🌱 I’m currently learning Terraform, AWS Services, Kubernetes, Docker, and Concourse CI.
-- ⚡ Fun fact: I speak English, French and Russian and I love rock climbing
+- ⚡ Fun fact: I speak English, French, and Russian and I love rock climbing
 
 <!-- ### Spotify Playing 🎧
 
