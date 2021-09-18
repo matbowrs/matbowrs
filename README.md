@@ -1,7 +1,8 @@
 ## Hey, I'm Matthew
-- 🔭 I'm currently working as an Infrastructure Developer at ADP.
-- 🌱 I’m currently learning Terraform, AWS Services, Kubernetes, Docker, and Concourse CI.
-- ⚡ Fun fact: I speak English, French, and Russian and I love rock climbing
+- 💻 I'm currently working as an Infrastructure Developer at ADP.
+- 🌱 I’m learning Terraform, AWS Services, Kubernetes, Docker, and Concourse CI.
+- 🔭 I'm also preparing for the AWS Certified Solutions Architect – Associate exam (SAA-C02).
+- ⚡ Fun fact: I speak English (native), French (C1), and Russian (B1-B2). I also love rock climbing.
 
 <!-- ### Spotify Playing 🎧
 
