@@ -1,8 +1,5 @@
 ## Hey, I'm Matthew
-- 💻 I'm currently working as an Infrastructure Developer at ADP.
-- 🌱 I’m learning Terraform, AWS Services, Kubernetes, Docker, and Concourse CI.
-- 🔭 I'm also preparing for the AWS Certified Solutions Architect – Associate exam (SAA-C02).
-- ⚡ Fun fact: I speak English (native), French (C1), and Russian (B1-B2). I also love rock climbing.
+- 💻 I do Cloud/Infrastructure work and am interested in Kubernetes and the future of cloud computing and ai/ml.
 
 <!-- ### Spotify Playing 🎧
 
@@ -30,11 +27,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
-## Languages and Tools I'd Like to Learn:
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 
 <br />
 <br />
