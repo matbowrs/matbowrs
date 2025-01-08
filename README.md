@@ -1,5 +1,5 @@
 ## Hey, I'm Matthew
-- 💻 I do Cloud/Infrastructure work and am interested in Kubernetes and the future of cloud computing and ai/ml.
+- 💻 I do mostly Cloud/Infrastructure work. I am interested in Kubernetes, the future of cloud computing and ai/ml.
 
 <!-- ### Spotify Playing 🎧
 
